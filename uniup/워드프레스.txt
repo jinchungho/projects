@@ -1,0 +1,23 @@
+﻿한글 바이트계산
+http://jsbin.com/qoxas/3/watch?html,js,output
+
+2. 복사 방지 - Right Click Disable Orignal
+3. 이메일 보낼대 본인과 해당관리자메일로 보내기 Contact Form 7
+4. 배너광고 - 세부적인 디자인 확인해야됨
+
+StatCounter Plugin
+Page View Count
+
+http://wingpgs.esy.es/2015/03/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4-50%EA%B0%9C%EC%9D%98-%ED%95%84%ED%84%B0-%EA%B2%B0%EB%A1%A0/
+
+
+1. 한글 1자 3byte 영문,숫자 2byte 특수문자 띄어쓰기 1byte - 적용테스트 해야됨
+http://www.wptricks24.com/contact-form-7-set-character-count-fields/
+https://wordpress.org/plugins/minimum-length-for-contact-form-7/
+https://wpgeodirectory.com/contact-form-7-vs-simple-html-form/
+
+5. 금지어 밑줄 나오게 -
+
+6. 일일접속자 -JetPack 플러그인, Count Per Day 플러그인 Slimstat Analytics
+
+Contact Form 7 Textarea Wordcount
