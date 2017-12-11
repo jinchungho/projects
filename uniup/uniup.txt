@@ -6,3 +6,39 @@ http://md5.me/
 
 워드프레스에서 부스트랩 사용
 http://studio5ing.tistory.com/76?category=647789
+
+경고창 디자인사이트
+https://sweetalert.js.org/
+
+워드프레스 db
+https://guspark.wordpress.com/2013/02/04/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4-db-%EC%BF%BC%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%B4%9D%EC%A0%95%EB%A6%AC/
+
+에디터 색상
+https://m.blog.naver.com/PostView.nhn?blogId=eominsuk55&logNo=220733918256&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+
+에디터 설치
+http://handcoding.tistory.com/16
+http://aljjabaegi.tistory.com/306
+WYSIWYG(위지윅) 에디터
+http://www.itpaper.co.kr/bootstrap-%EA%B8%B0%EB%B0%98%EC%9D%98-wisiwyg-editor-summernote/
+에디터들 비교
+https://medium.com/ufofactory-org/wysiwyg-%EC%97%90%EB%94%94%ED%84%B0-%EB%B9%84%EA%B5%90-f949f57633a6
+
+textarea에서 개별 키워드에대한 색상을 입힐수가 없음으로 
+에디터를 붙이거나 발송시 표시해주는 방법으로
+
+1. keyup 이벤트에서 에디터 text를 가져옵니다. 
+
+2. 금지어를  replace 해줍니다.  '금지어 '  ->  ''<span style='border-bottom:1px solid red'>금지어</span>"
+
+3. 에디터에서 제공하는 펑션을 이용해 replace된 값으로 바꿔줍니다.
+
+글자수세기
+http://zzznara2.tistory.com/458
+
+방문자수 통계
+Google Analytics Counter Tracker
+
+
+
+
