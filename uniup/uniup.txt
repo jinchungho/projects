@@ -40,5 +40,11 @@ http://zzznara2.tistory.com/458
 Google Analytics Counter Tracker
 
 
+한글 3바이트
+https://mytory.net/archives/238 
+특수문자 1바이트
+http://holybell87.tistory.com/30#.Wi-Tqkpl-Uk 
+영숫자 2바이트
+http://k-flow.tistory.com/48
 
 

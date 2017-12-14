@@ -1,2 +1,6 @@
 ﻿아이오닉2 이메일 보내기 
 https://www.thepolyglotdeveloper.com/2016/05/send-emails-ionic-2-mobile-app-via-rackspace-mailgun-api/
+
+ionic start uniup(이름) blank(설정) -v2(버젼)
+
+
